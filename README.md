@@ -1,5 +1,8 @@
 # Proiect: Sistem de Management Bancar
 
+## Descriere
+Acesta este un sistem bancar implementat in Java. Acesta are urmatoarele functionalitati, legate de utilizatori, crearea de conturi, emiterea de carduri, tranzactii si schimburi valutare. Proiectul utilizeaza principii de programare orientata pe obiect si design pattern-ul Visitor pentru a gestiona diferite tipuri de tranzactii. Mai utilizeaza si design pattern-ul Singleton pentru a exista doar o singura instanta de pentru clasa Bank si mai utilizeaza si design pattern-ul CommandFactory pentru a crea si returna instante ale comenzilor corespunzatoare.
+
 ## Cuprins
 1. [Descriere](#descriere)
 2. [Prezentare-generala-a-claselor](#prezentare-generala-a-claselor)
@@ -31,9 +34,6 @@
 4. [Interfata Visitor si Visitable](#interfata-visitor-si-visitable)
 
 ---
-
-## Descriere
-Acesta este un sistem bancar implementat in Java. Acesta suporta gestionarea utilizatorilor, crearea de conturi, emiterea de carduri, tranzactii si schimburi valutare. Proiectul utilizeaza principii de programare orientata pe obiect si design pattern-ul Visitor pentru a gestiona diferite tipuri de tranzactii. Mai utilizeaza si design pattern-ul Singleton pentru a exista doar o singura instanta de pentru clasa Bank si mai utilizeaza si design pattern-ul CommandFactory pentru a crea si returna instante ale comenzilor corespunzatoare.
 
 ## Prezentare Generala a Claselor
 
